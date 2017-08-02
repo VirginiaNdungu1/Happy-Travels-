@@ -1,0 +1,21 @@
+.tropical{
+  color: green;
+font-family: fantasy;
+}
+p.tropical{
+  color: red;
+  font-size: 22px;
+
+
+}
+.popular{
+  color: #yellow;
+}
+p.popular{
+  color: #C70039;
+  font-size: 18px;
+}
+.sidebar{
+  float: left;
+  width: 65%;
+}
